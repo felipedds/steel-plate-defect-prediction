@@ -17,3 +17,6 @@ etc.
 
 #### Competition from Kaggle
 Walter Reade, Ashley Chow. (2024). Steel Plate Defect Prediction. Kaggle. `https://kaggle.com/competitions/playground-series-s4e3`
+
+##### Dataset from UCI
+`https://archive.ics.uci.edu/dataset/198/steel+plates+faults`
